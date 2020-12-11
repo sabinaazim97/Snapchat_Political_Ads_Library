@@ -12,15 +12,15 @@ The data that I will be using comes directly from the Snapchat website: https://
 
 Snapchat regards an ad as 'political' if it is election, advocacy, or issue related.
 
-Some information on the column names that will be beneficial to know (see here for full list):
+Some information on the column names that will be beneficial to know (see [here](https://github.com/skang06/snapchat_political_ads_2020/blob/master/readme.txt) for full list):
 
-Currency Code - local currency used to pay for advertisement
-Spend - amount (in local currency) spent on advertisement
-Impressions - number of times the ad has been viewed
-Organization Name - organization responsible for creating the Ad
-CandidateBallotInformation - candidate/ ballot initiative associated with the Ad
-PayingAdvertiserName - entity providing the funds for the Ad
-GenderCode - targeted gender
-AgeBracket - target age group
-Interests - interests of targeted audience
-Advanced Demographics - 3rd party data segments targeting criteria used in Ad
+Currency Code - local currency used to pay for advertisement    
+Spend - amount (in local currency) spent on advertisement    
+Impressions - number of times the ad has been viewed    
+Organization Name - organization responsible for creating the Ad        
+CandidateBallotInformation - candidate/ ballot initiative associated with the Ad    
+PayingAdvertiserName - entity providing the funds for the Ad    
+GenderCode - targeted gender     
+AgeBracket - target age group     
+Interests - interests of targeted audience     
+Advanced Demographics - 3rd party data segments targeting criteria used in Ad        
